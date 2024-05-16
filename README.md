@@ -1,4 +1,4 @@
-This repository contains the source code for a furniture website developed using HTML, CSS, and JavaScript.
+This repository contains the source code for a furniture website developed using HTML, CSS, and JavaScript and PHP.
 
 Getting Started
 To get the code from this repository, follow these steps:
