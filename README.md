@@ -5,7 +5,7 @@ To get the code from this repository, follow these steps:
 
 1. Clone the Repository:
 
-git clone https://github.com/ritesh-dotcom2/Bioskire.git
+git clone https://github.com/ritesh-dotcom2/azwood.git
 
 2. Navigate to the Cloned Directory:
 
